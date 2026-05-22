@@ -89,10 +89,9 @@ Where data are restricted, I do not upload raw or processed confidential files. 
 ## Connect
 
 - GitHub: [ElvisKwameOfori123](https://github.com/ElvisKwameOfori123)
-- ORCID: add here
-- Google Scholar: add here
-- LinkedIn: add here
-- University profile: add here
+- ORCID: [0000-0001-5404-9078](https://orcid.org/0000-0001-5404-9078)
+- Google Scholar: [Elvis Kwame Ofori](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)
+- LinkedIn: [Elvis Ofori](https://www.linkedin.com/in/elvis-ofori-12139b71/)
 
 ---
 
