@@ -4,7 +4,9 @@
 
 I am a PhD researcher in Plant and AgriBiosciences and a Research Assistant in the School of Biology and Chemistry. My work sits at the intersection of climate policy, agricultural economics, land-use transition, behavioural policy modelling, and spatial microsimulation. I am especially interested in how climate-policy costs are distributed across livestock systems, farms, and places, with Ireland as a central empirical case.
 
-My academic background combines plant and agribioscience, agricultural transition research, and a master's degree in Management Science and Engineering completed in China. I use GitHub to organise reproducible research workflows, document modelling assumptions, preserve code, and make analysis pipelines easier to inspect. Where data are confidential, repositories provide code, documentation, workflow notes, and cleaned logs without redistributing restricted microdata.
+I bring an interdisciplinary perspective to climate and agricultural transition research, combining Plant and AgriBiosciences with management science, econometric modelling, sustainability policy, and applied development research. My academic background combines plant and agribioscience, agricultural transition research, and a master's degree in Management Science and Engineering completed in China.
+
+I use GitHub to organise reproducible research workflows, document modelling assumptions, preserve code, and make analysis pipelines easier to inspect. Where data are confidential, repositories provide code, documentation, workflow notes, and cleaned logs without redistributing restricted microdata.
 
 ---
 
@@ -13,6 +15,7 @@ My academic background combines plant and agribioscience, agricultural transitio
 - PhD researcher in Plant and AgriBiosciences
 - Research Assistant in the School of Biology and Chemistry
 - Master's background in Management Science and Engineering, completed in China
+- Interdisciplinary background spanning Plant and AgriBiosciences, management science, econometric modelling, sustainability policy, and applied development research
 - Working across climate policy, agricultural economics, land-use transition, and behavioural policy modelling
 - Interested in AFOLU mitigation, livestock restructuring, carbon removals, and just transition design
 - Working with farm microdata, behavioural choice models, MACC frameworks, and spatial microsimulation
