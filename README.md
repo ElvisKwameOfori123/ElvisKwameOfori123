@@ -2,15 +2,18 @@
 
 > Personal GitHub account. The views, findings, and conclusions expressed in my repositories, publications, replication files, and associated documentation are my own. They should not be interpreted as representing the official position, policy, or judgement of my current or former employers, university, data providers, funders, supervisors, or collaborators.
 
-I am a PhD researcher working at the intersection of climate policy, agricultural economics, land-use transition, behavioural policy modelling, and spatial microsimulation. My work focuses on how climate-policy costs are distributed across livestock systems, farms, and places, with Ireland as a central empirical case.
+I am a PhD researcher in Plant and AgriBiosciences and a Research Assistant in the School of Biology and Chemistry. My work sits at the intersection of climate policy, agricultural economics, land-use transition, behavioural policy modelling, and spatial microsimulation. I am especially interested in how climate-policy costs are distributed across livestock systems, farms, and places, with Ireland as a central empirical case.
 
-I use GitHub to organise reproducible research workflows, document modelling assumptions, preserve code, and make analysis pipelines easier to inspect. Where data are confidential, repositories provide code, documentation, workflow notes, and cleaned logs without redistributing restricted microdata.
+My academic background combines plant and agribioscience, agricultural transition research, and a master's degree in Management Science and Engineering completed in China. I use GitHub to organise reproducible research workflows, document modelling assumptions, preserve code, and make analysis pipelines easier to inspect. Where data are confidential, repositories provide code, documentation, workflow notes, and cleaned logs without redistributing restricted microdata.
 
 ---
 
 ## About me
 
-- PhD researcher in climate policy, agricultural economics, and land-use transition modelling
+- PhD researcher in Plant and AgriBiosciences
+- Research Assistant in the School of Biology and Chemistry
+- Master's background in Management Science and Engineering, completed in China
+- Working across climate policy, agricultural economics, land-use transition, and behavioural policy modelling
 - Interested in AFOLU mitigation, livestock restructuring, carbon removals, and just transition design
 - Working with farm microdata, behavioural choice models, MACC frameworks, and spatial microsimulation
 - Main tools: Stata, Python, Excel-based modelling, GitHub, and reproducibility workflows
