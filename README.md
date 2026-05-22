@@ -1,6 +1,6 @@
 # Hi, I’m Elvis Kwame Ofori
 
-> Personal GitHub account. Views expressed here are my own and do not represent my university, supervisors, data providers, funders, or collaborators.
+> Personal GitHub account. The views, findings, and conclusions expressed in my repositories, publications, replication files, and associated documentation are my own. They should not be interpreted as representing the official position, policy, or judgement of my current or former employers, university, data providers, funders, supervisors, or collaborators.
 
 I am a PhD researcher working at the intersection of climate policy, agricultural economics, land-use transition, behavioural policy modelling, and spatial microsimulation. My work focuses on how climate-policy costs are distributed across livestock systems, farms, and places, with Ireland as a central empirical case.
 
