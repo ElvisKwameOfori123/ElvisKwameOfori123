@@ -2,7 +2,7 @@
 
 > Personal GitHub account. The views, findings, and conclusions expressed in my repositories, publications, replication files, and associated documentation are my own. They should not be interpreted as representing the official position, policy, or judgement of my current or former employers, university, data providers, funders, supervisors, or collaborators.
 
-I am a PhD researcher in Plant and AgriBiosciences and a Research Assistant in the School of Biology and Chemistry. My work sits at the intersection of climate policy, agricultural economics, land-use transition, behavioural policy modelling, and spatial microsimulation. I am especially interested in how climate-policy costs are distributed across livestock systems, farms, and places, with Ireland as a central empirical case.
+I am a PhD researcher in Plant and AgriBiosciences and a Research Assistant in the School of Biology and Chemistry. My research examines climate policy, agricultural transition, land-use change, behavioural policy design, and spatial microsimulation, with a particular focus on how policy costs are distributed across livestock systems, farms, and places in Ireland.
 
 I bring an interdisciplinary perspective to climate and agricultural transition research, combining Plant and AgriBiosciences with management science, econometric modelling, sustainability policy, and applied development research. My academic background combines plant and agribioscience, agricultural transition research, and a master's degree in Management Science and Engineering completed in China.
 
