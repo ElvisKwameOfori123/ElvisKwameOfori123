@@ -1,106 +1,145 @@
 # Hi, I’m Elvis Kwame Ofori
 
-> Personal GitHub account. The views, findings, and conclusions expressed in my repositories, publications, replication files, and associated documentation are my own. They should not be interpreted as representing the official position, policy, or judgement of my current or former employers, university, data providers, funders, supervisors, or collaborators.
+**PhD Researcher & Research Assistant | Agricultural, Climate and Land-Use Modelling | University of Galway**
 
-I am a PhD researcher in Plant and AgriBiosciences and a Research Assistant in the School of Biology and Chemistry. My research examines climate policy, agricultural transition, land-use change, behavioural policy design, and spatial microsimulation, with a particular focus on how policy costs are distributed across livestock systems, farms, and places in Ireland.
+I am a **PhD researcher and Research Assistant in Plants & AgriBioscience, School of Biological & Chemical Sciences, Ryan Institute, University of Galway**. I develop quantitative models to understand how agricultural and land-use transitions can meet climate objectives while accounting for **where adjustment occurs, who bears its economic consequences, and what alternative transition opportunities are available**.
 
-I bring an interdisciplinary perspective to climate and agricultural transition research, combining Plant and AgriBiosciences with management science, econometric modelling, sustainability policy, and applied development research. My academic background combines plant and agribioscience, agricultural transition research, and a master's degree in Management Science and Engineering completed in China.
+My work combines **AFOLU modelling, agricultural economics, spatial analysis, behavioural policy modelling, econometrics and microsimulation**. A central theme across my research is connecting national climate and land-use objectives to the farms, livestock systems and places through which those transitions must occur.
 
-I use GitHub to organise reproducible research workflows, document modelling assumptions, preserve code, and make analysis pipelines easier to inspect. Where data are confidential, repositories provide code, documentation, workflow notes, and cleaned logs without redistributing restricted microdata.
-
----
-
-## About me
-
-- PhD researcher in Plant and AgriBiosciences
-- Research Assistant in the School of Biology and Chemistry
-- Master's background in Management Science and Engineering, completed in China
-- Interdisciplinary background spanning Plant and AgriBiosciences, management science, econometric modelling, sustainability policy, and applied development research
-- Working across climate policy, agricultural economics, land-use transition, and behavioural policy modelling
-- Interested in AFOLU mitigation, livestock restructuring, carbon removals, and just transition design
-- Working with farm microdata, behavioural choice models, MACC frameworks, and spatial microsimulation
-- Main tools: Stata, Python, Excel-based modelling, GitHub, and reproducibility workflows
-- Current empirical focus: Irish livestock systems, voluntary reduction policy, farm-level behavioural response, and compensation design
-- Broader research interests: Sub-Saharan African food systems, carbon pricing, sustainable diets, bioenergy, and climate-development trade-offs
+My current research at the University of Galway sits within the wider **FORESIGHT** and **LandingZoNES** modelling programmes and the **GOBLIN** modelling framework, with a particular focus on livestock transition, land-use change, spatial feasibility, economic exposure and just-transition policy.
 
 ---
 
-## Current research themes
+## Current modelling work
 
-### Behavioural climate policy in livestock systems
+### GOBLIN-Spatial
 
-I study how farmers respond to climate policy incentives when adjustment requires more than income replacement. This includes modelling stocking-rate decisions, asymmetric adjustment costs, willingness-to-accept compensation, and the distributional incidence of livestock reduction schemes.
+**A constraint-preserving spatial framework for agricultural reconstruction and transition analysis.**
 
-### AFOLU transition pathways
+GOBLIN-Spatial reconstructs Irish agricultural activity across Electoral Divisions and spatialises nationally defined GOBLIN livestock and land-use pathways. It links historical livestock structure, land capability, spatial constraints and transition opportunity to examine where adjustment may be concentrated and where alternative land uses may or may not be feasible.
 
-I develop policy-relevant models of agricultural, forestry, and land-use transition pathways. My work examines livestock restructuring, land release, afforestation, rewetting, anaerobic digestion, carbon removals, and farm-system vulnerability.
+The framework follows a modular sequence:
 
-### Spatial and distributional modelling
+```text
+Historical reconstruction
+        ↓
+Spatial livestock transition
+        ↓
+Released-land opportunity
+        ↓
+Alternative land-use feasibility
+```
 
-I use farm microdata, synthetic populations, and spatial microsimulation to analyse where climate-policy costs fall, which farm systems bear the burden, and how transition policy can be made more credible and distributionally aware.
+### IFT-BioSim
 
-### Food, energy, and climate trade-offs
+**Irish Farm Transition Bioeconomic Microsimulation.**
 
-I also work on food-system sustainability, carbon pricing, nutrition-climate-development trade-offs, and bioenergy potential, especially in Sub-Saharan Africa.
+IFT-BioSim is a farm-level transition modelling framework for examining heterogeneous livestock adjustment, opportunity costs, behavioural participation, income effects, land reallocation and transition-support design. The model is intended to help distinguish between farms that face very different economic and structural conditions under the same national transition objective.
 
----
+### Agrisyn
 
-## Selected repositories
+A synthetic-farm modelling framework for reconstructing **within-area farm heterogeneity** from agricultural and spatial controls. Agrisyn complements ED-level spatial modelling by providing a route from aggregate spatial controls to synthetic farm populations that can support more detailed distributional and scenario analysis.
 
 ### Livestock reduction and behavioural compensation
 
-[`livestock-reduction-compensation-ireland`](https://github.com/ElvisKwameOfori123/livestock-reduction-compensation-ireland)
+I also develop econometric and policy models of voluntary livestock reduction, including stocking-rate adjustment, asymmetric adjustment costs, participation decisions, willingness-to-accept compensation and the distributional incidence of climate-policy instruments.
 
-Code and reproducibility materials for estimating behavioural compensation requirements under voluntary livestock reduction policy in Ireland. The repository includes Stata scripts, workflow documentation, data-structure notes, and cleaned log summaries. The underlying farm-level microdata are confidential and are not redistributed.
+---
+
+## Research questions
+
+Much of my current work can be summarised by a common sequence:
+
+```text
+National climate or land-use objective
+        ↓
+Agricultural and livestock adjustment
+        ↓
+Farm and spatial incidence
+        ↓
+Economic exposure
+        ↓
+Transition opportunity and constraint
+        ↓
+Policy design
+```
+
+I am particularly interested in questions such as:
+
+- How should national agricultural climate pathways be translated into realistic farm and spatial adjustment?
+- Which livestock systems, farms and places bear the greatest transition exposure?
+- Where does livestock adjustment release land, and what alternative uses can that land plausibly support?
+- How should compensation, diversification and transition-support mechanisms account for heterogeneous opportunity costs?
+- How can climate ambition be reconciled with food production, rural livelihoods, bioeconomy development and spatial constraints?
+
+---
+
+## Research themes
+
+### Agricultural and land-use transitions
+
+AFOLU mitigation, livestock restructuring, afforestation, rewetting, anaerobic digestion, bioeconomy pathways, land-use competition and long-term transition planning.
+
+### Spatial and distributional modelling
+
+Spatial reconstruction, microsimulation, synthetic populations, transition exposure, land opportunity, regional heterogeneity and place-sensitive policy analysis.
+
+### Behavioural climate policy
+
+Farm participation, revealed-preference modelling, adjustment costs, compensation design, policy incidence and credible voluntary transition mechanisms.
+
+### Food, climate and development
+
+Food-system sustainability, sustainable diets, agricultural productivity, carbon pricing, bioenergy and climate-development trade-offs, with a broader interest in Sub-Saharan African food systems.
 
 ---
 
 ## Methods and tools
 
-- **Econometrics:** conditional logit, correlated random effects, panel models, revealed-preference modelling
-- **Policy modelling:** marginal abatement cost curves, target-consistent compensation, scenario simulation
-- **Microsimulation:** farm-level and spatial policy incidence modelling
-- **Programming and workflow:** Stata, Python, Excel, GitHub, reproducibility documentation
-- **Research domains:** AFOLU, livestock systems, agricultural climate policy, carbon pricing, land-use transition, food systems
+- **Econometrics:** panel models, conditional logit, correlated random effects, revealed-preference methods
+- **Microsimulation:** farm-level and spatial policy-incidence modelling
+- **Scenario modelling:** AFOLU pathways, land-use allocation, marginal abatement cost analysis and transition stress-testing
+- **Spatial modelling:** hierarchical reconstruction, spatial allocation, land-capability and opportunity analysis
+- **Programming and workflow:** Python, Stata, Excel-based modelling, GitHub and reproducible research pipelines
+- **Research practice:** explicit assumptions, validation checks, versioned model controls and reproducibility documentation
 
 ---
 
-## Reproducibility principles
+## Reproducible research
 
-My repositories aim to make research workflows transparent by documenting:
+I use GitHub to organise research workflows, document modelling assumptions, preserve code and make analytical pipelines easier to inspect and reproduce.
 
-- model scripts and execution order
-- data requirements and access restrictions
-- cleaned logs and workflow notes
-- assumptions used in scenario modelling
-- output folders for figures, tables, and appendices
+Where data are confidential or access-restricted, I do not redistribute protected microdata. Instead, repositories may provide:
 
-Where data are restricted, I do not upload raw or processed confidential files. Instead, I provide code and documentation that allow authorised users to reproduce the analysis locally.
+- model scripts and execution order;
+- data requirements and access notes;
+- scientific assumptions and validation checks;
+- cleaned logs and workflow documentation;
+- scenario controls and reproducibility instructions; and
+- code for authorised users to reproduce analyses locally.
+
+Some repositories remain private while manuscripts are under development or while data-access and release requirements are being checked.
 
 ---
 
-## Research areas I am developing
+## Background
 
-- Behavioural compensation for voluntary livestock reduction
-- Farm-level incidence of climate policy in Ireland
-- Spatial microsimulation of just transition outcomes
-- Integrated AFOLU mitigation pathways
-- Land-use competition between livestock, forestry, rewetting, and bioeconomy options
-- Sustainable food-system transitions in Sub-Saharan Africa
-- Bioenergy potential from agricultural residues and waste streams
-- Carbon pricing, food affordability, and climate justice
+My research is interdisciplinary, combining **Plant and AgriBiosciences, management science, econometric modelling, sustainability policy and applied development research**. I hold an **MSc in Management Science and Engineering** completed in China and currently undertake doctoral research at the University of Galway.
+
+This combination has shaped my interest in building models that connect biophysical constraints, economic behaviour, spatial heterogeneity and policy design rather than treating them as separate research problems.
 
 ---
 
 ## Connect
 
-- GitHub: [ElvisKwameOfori123](https://github.com/ElvisKwameOfori123)
-- ORCID: [0000-0001-5404-9078](https://orcid.org/0000-0001-5404-9078)
-- Google Scholar: [Elvis Kwame Ofori](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)
-- LinkedIn: [Elvis Ofori](https://www.linkedin.com/in/elvis-ofori-12139b71/)
+- **Email:** [oforikwamee@gmail.com](mailto:oforikwamee@gmail.com)
+- **ORCID:** [0000-0001-5404-9078](https://orcid.org/0000-0001-5404-9078)
+- **Google Scholar:** [Elvis Kwame Ofori](https://scholar.google.com/citations?user=cf5X1eAAAAAJ&hl=en)
+- **LinkedIn:** [Elvis Ofori](https://www.linkedin.com/in/elvis-ofori-12139b71/)
+- **GitHub:** [ElvisKwameOfori123](https://github.com/ElvisKwameOfori123)
 
 ---
 
-## Note
+## Disclaimer
 
-Some repositories may be private while papers are under development or while data-access restrictions are being checked. Public repositories will normally contain code and documentation, but not confidential microdata.
+This is my personal GitHub account. The views, findings and conclusions expressed in my repositories, publications, replication files and associated documentation are my own and should not be interpreted as representing the official position, policy or judgement of my university, employers, funders, data providers, supervisors or collaborators.
