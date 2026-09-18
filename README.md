@@ -1,12 +1,16 @@
 # Hi, I’m Elvis Kwame Ofori
 
-**PhD Researcher & Research Assistant | Agricultural, Climate and Land-Use Modelling | University of Galway**
+**PhD Researcher & Research Assistant | Agricultural, Land-Use & Policy Modelling | University of Galway**
 
-I am a **PhD researcher and Research Assistant in Plants & AgriBioscience, School of Biological & Chemical Sciences, Ryan Institute, University of Galway**. I develop quantitative models to understand how agricultural and land-use transitions can meet climate objectives while accounting for **where adjustment occurs, who bears its economic consequences, and what alternative transition opportunities are available**.
+I am a **PhD Researcher and Research Assistant in Plants & AgriBioscience, School of Biological & Chemical Sciences, Ryan Institute, University of Galway**. I work at the intersection of agricultural economics, land-use modelling, environmental policy and quantitative decision support.
 
-My work combines **AFOLU modelling, agricultural economics, spatial analysis, behavioural policy modelling, econometrics and microsimulation**. A central theme across my research is connecting national climate and land-use objectives to the farms, livestock systems and places through which those transitions must occur.
+I develop **economic, spatial, behavioural and computational modelling tools** to understand how agricultural, land-use and bioenergy policies may be designed and implemented across different production systems and places. I am particularly interested in moving from national policy objectives to questions of **where adjustment occurs, which systems and places are affected, what the economic consequences may be, what opportunities and constraints emerge, and how alternative policy designs may perform**.
 
-My current research at the University of Galway sits within the wider **FORESIGHT** and **LandingZoNES** modelling programmes and the **GOBLIN** modelling framework, with a particular focus on livestock transition, land-use change, spatial feasibility, economic exposure and just-transition policy.
+My work combines **AFOLU modelling, agricultural economics, spatial analysis, behavioural policy modelling, econometrics, microsimulation, optimisation and scenario analysis**. A central theme is connecting national objectives with the production systems, land resources, places and, where appropriate, individual farms through which policy implementation occurs.
+
+Beyond individual analyses, I am increasingly interested in developing **reusable modelling and decision-support systems** that researchers and policy analysts can reproduce, test, adapt and extend.
+
+My current research at the University of Galway sits within the wider **FORESIGHT** and **LandingZoNES** research environment and builds on the **GOBLIN** modelling framework. My work focuses particularly on agricultural and livestock transitions, land-use change, spatial feasibility, economic exposure, heterogeneous policy response, bioenergy opportunities, and policy design and implementation.
 
 ---
 
@@ -42,7 +46,7 @@ A synthetic-farm modelling framework for reconstructing **within-area farm heter
 
 ### Livestock reduction and behavioural compensation
 
-I also develop econometric and policy models of voluntary livestock reduction, including stocking-rate adjustment, asymmetric adjustment costs, participation decisions, willingness-to-accept compensation and the distributional incidence of climate-policy instruments.
+I also develop econometric and policy models of voluntary livestock reduction, including stocking-rate adjustment, asymmetric adjustment costs, participation decisions, willingness-to-accept compensation and the distributional incidence of policy instruments.
 
 ---
 
@@ -51,26 +55,32 @@ I also develop econometric and policy models of voluntary livestock reduction, i
 Much of my current work can be summarised by a common sequence:
 
 ```text
-National climate or land-use objective
+Policy objective or proposed intervention
         ↓
-Agricultural and livestock adjustment
+Technical and economic assumptions
         ↓
-Farm and spatial incidence
+Agricultural and production-system response
         ↓
-Economic exposure
+Spatial and regional incidence
         ↓
-Transition opportunity and constraint
+Economic and behavioural response
         ↓
-Policy design
+Opportunities, constraints and uncertainty
+        ↓
+Policy design, targeting and implementation
 ```
+
+The appropriate level of analysis depends on the policy question. Some problems require national pathway modelling, others require regional or local spatial analysis, and some require farm or individual-operation detail. My interest is therefore not in one resolution alone, but in developing modelling systems that can connect these levels where necessary.
 
 I am particularly interested in questions such as:
 
-- How should national agricultural climate pathways be translated into realistic farm and spatial adjustment?
-- Which livestock systems, farms and places bear the greatest transition exposure?
-- Where does livestock adjustment release land, and what alternative uses can that land plausibly support?
-- How should compensation, diversification and transition-support mechanisms account for heterogeneous opportunity costs?
-- How can climate ambition be reconciled with food production, rural livelihoods, bioeconomy development and spatial constraints?
+- How can national agricultural, land-use and bioenergy objectives be translated into realistic spatial and economic pathways?
+- How do alternative policy designs affect different production systems and places?
+- Which technical assumptions remain feasible once economic, spatial and behavioural constraints are considered?
+- Where do transition costs, opportunities and implementation constraints concentrate?
+- How can incentives, compensation and transition-support mechanisms account for heterogeneous opportunity costs and producer responses?
+- How can technical resource potential be distinguished from economically accessible and realistically deployable potential?
+- How can modelling provide useful foresight before major policy and investment decisions become difficult to reverse?
 
 ---
 
@@ -84,9 +94,9 @@ AFOLU mitigation, livestock restructuring, afforestation, rewetting, anaerobic d
 
 Spatial reconstruction, microsimulation, synthetic populations, transition exposure, land opportunity, regional heterogeneity and place-sensitive policy analysis.
 
-### Behavioural climate policy
+### Behavioural and policy response modelling
 
-Farm participation, revealed-preference modelling, adjustment costs, compensation design, policy incidence and credible voluntary transition mechanisms.
+Producer participation, revealed-preference modelling, adjustment costs, incentive response, compensation design, additionality, policy incidence and heterogeneous responses to alternative policy instruments.
 
 ### Food, climate and development
 
@@ -96,18 +106,22 @@ Food-system sustainability, sustainable diets, agricultural productivity, carbon
 
 ## Methods and tools
 
-- **Econometrics:** panel models, conditional logit, correlated random effects, revealed-preference methods
-- **Microsimulation:** farm-level and spatial policy-incidence modelling
-- **Scenario modelling:** AFOLU pathways, land-use allocation, marginal abatement cost analysis and transition stress-testing
-- **Spatial modelling:** hierarchical reconstruction, spatial allocation, land-capability and opportunity analysis
-- **Programming and workflow:** Python, Stata, Excel-based modelling, GitHub and reproducible research pipelines
-- **Research practice:** explicit assumptions, validation checks, versioned model controls and reproducibility documentation
+- **Econometrics:** panel models, conditional logit, correlated random effects and revealed-preference methods
+- **Behavioural and microsimulation modelling:** producer response, farm-level simulation and spatial policy-incidence analysis
+- **Optimisation and synthetic populations:** mixed-integer optimisation, constraint-preserving allocation and synthetic farm-population construction
+- **Scenario and economic modelling:** AFOLU pathways, marginal abatement costs, opportunity costs, bioenergy economics and transition stress-testing
+- **Spatial modelling:** hierarchical reconstruction, spatial allocation, land capability, resource accessibility and place-based opportunity analysis
+- **Programming and data:** Python, R, Stata, GIS, Excel-based modelling and reproducible data pipelines
+- **Uncertainty and validation:** sensitivity analysis, scenario comparison, explicit assumptions, validation checks and model diagnostics
+- **Research workflow:** GitHub, version-controlled models, reproducibility documentation and transparent model development
 
 ---
 
 ## Reproducible research
 
 I use GitHub to organise research workflows, document modelling assumptions, preserve code and make analytical pipelines easier to inspect and reproduce.
+
+My longer-term aim is not only to publish individual analyses, but to develop **modular modelling and decision-support infrastructure** that can be reused across policy questions. Where appropriate, this includes documented code, synthetic datasets, scenario controls, worked examples and versioned model releases that other researchers can inspect, reproduce and extend.
 
 Where data are confidential or access-restricted, I do not redistribute protected microdata. Instead, repositories may provide:
 
@@ -124,9 +138,11 @@ Some repositories remain private while manuscripts are under development or whil
 
 ## Background
 
-My research is interdisciplinary, combining **Plant and AgriBiosciences, management science, econometric modelling, sustainability policy and applied development research**. I hold an **MSc in Management Science and Engineering** completed in China and currently undertake doctoral research at the University of Galway.
+I am a **PhD Researcher and Research Assistant at the University of Galway**, with an interdisciplinary background spanning **Plant & AgriBiosciences, management science, agricultural and environmental economics, econometric modelling, spatial analysis and sustainability policy**.
 
-This combination has shaped my interest in building models that connect biophysical constraints, economic behaviour, spatial heterogeneity and policy design rather than treating them as separate research problems.
+I hold an **MSc in Management Science and Engineering** completed in China and currently undertake doctoral research at the University of Galway.
+
+This combination has shaped my interest in building modelling systems that connect **national policy objectives, economic behaviour, production-system heterogeneity, spatial constraints and implementation outcomes**, rather than treating them as separate research problems.
 
 ---
 
