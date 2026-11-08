@@ -14,39 +14,24 @@ My current research at the University of Galway sits within the wider **FORESIGH
 
 ---
 
-## Current modelling work
+## Research models and tools
 
-### GOBLIN-Spatial
+These repositories document complementary approaches to agricultural, land-use and environmental policy analysis, from historical reconstruction and spatial reporting to farm-level policy response and long-term transition pathways.
 
-**A constraint-preserving spatial framework for agricultural reconstruction and transition analysis.**
+| Repository | Research focus | Access |
+| --- | --- | --- |
+| **[E-SEAT](https://github.com/ElvisKwameOfori123/E-SEAT)** | Ethanol-demand exposure, county-level agricultural specialisation and structural land-use adjustment in the U.S. Corn Belt. | Public |
+| **[GOBLIN-Spatial](https://github.com/ElvisKwameOfori123/GOBLIN-Spatial)** | Historical reconstruction of Irish livestock cohorts and agricultural structure across Electoral Divisions, counties and catchments (2015–2025). | Private |
+| **[GOBLIN-Spatial-Explorer](https://github.com/ElvisKwameOfori123/GOBLIN-Spatial-Explorer)** | Read-only mapping and comparison of validated GOBLIN-Spatial historical data; scientific calculations remain in the underlying model. | Private |
+| **[StockRate-Sim](https://github.com/ElvisKwameOfori123/StockRate-Sim)** | Behavioural microsimulation of livestock-unit pricing, cap-and-trade and heterogeneous farm-income effects. | Private |
+| **[Agrisyn_NZ](https://github.com/ElvisKwameOfori123/Agrisyn_NZ)** | Farm-level distribution of Ireland's 2050 net-zero livestock and land-use transition, including alternative adjustment pathways and income incidence. | Private |
+| **[agrisyn_v0.2](https://github.com/ElvisKwameOfori123/agrisyn_v0.2)** | A synthetic 2020 population of Irish farms calibrated to spatial agricultural controls, enabling distributional and scenario analysis. | Private |
 
-GOBLIN-Spatial reconstructs Irish agricultural activity across Electoral Divisions and spatialises nationally defined GOBLIN livestock and land-use pathways. It links historical livestock structure, land capability, spatial constraints and transition opportunity to examine where adjustment may be concentrated and where alternative land uses may or may not be feasible.
+*Private repositories are accessible only to authorised collaborators. Their inclusion here describes the research scope but does not make the code or restricted data public.*
 
-The framework follows a modular sequence:
+### Strategic foresight and policy design
 
-```text
-Historical reconstruction
-        ↓
-Spatial livestock transition
-        ↓
-Released-land opportunity
-        ↓
-Alternative land-use feasibility
-```
-
-### IFT-BioSim
-
-**Irish Farm Transition Bioeconomic Microsimulation.**
-
-IFT-BioSim is a farm-level transition modelling framework for examining heterogeneous livestock adjustment, opportunity costs, behavioural participation, income effects, land reallocation and transition-support design. The model is intended to help distinguish between farms that face very different economic and structural conditions under the same national transition objective.
-
-### Agrisyn
-
-A synthetic-farm modelling framework for reconstructing **within-area farm heterogeneity** from agricultural and spatial controls. Agrisyn complements ED-level spatial modelling by providing a route from aggregate spatial controls to synthetic farm populations that can support more detailed distributional and scenario analysis.
-
-### Livestock reduction and behavioural compensation
-
-I also develop econometric and policy models of voluntary livestock reduction, including stocking-rate adjustment, asymmetric adjustment costs, participation decisions, willingness-to-accept compensation and the distributional incidence of policy instruments.
+I use these frameworks to examine how national objectives translate into heterogeneous responses across production systems, farms and places. The objective is not to forecast one inevitable future, but to evaluate plausible pathways, test implementation assumptions and identify the spatial, economic and behavioural conditions under which policy options may succeed or encounter constraints.
 
 ---
 
