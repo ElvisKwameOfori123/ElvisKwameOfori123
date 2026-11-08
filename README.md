@@ -4,7 +4,7 @@
 
 I am a **PhD Researcher and Research Assistant in Plants & AgriBioscience, School of Biological & Chemical Sciences, Ryan Institute, University of Galway**. I work at the intersection of agricultural economics, land-use modelling, environmental policy and quantitative decision support.
 
-I develop **economic, spatial, behavioural and computational modelling tools** to understand how agricultural, land-use and bioenergy policies may be designed and implemented across different production systems and places. I am particularly interested in moving from national policy objectives to questions of **where adjustment occurs, which systems and places are affected, what the economic consequences may be, what opportunities and constraints emerge, and how alternative policy designs may perform**.
+I develop **biophysical, economic, spatial, behavioural and computational modelling tools** to understand how agricultural, land-use and bioenergy policies may be designed and implemented across different production systems and places. I am particularly interested in moving from national policy objectives to questions of **where adjustment occurs, which systems and places are affected, what the economic consequences may be, what opportunities and constraints emerge, and how alternative policy designs may perform**.
 
 My work combines **AFOLU modelling, agricultural economics, spatial analysis, behavioural policy modelling, econometrics, microsimulation, optimisation and scenario analysis**. A central theme is connecting national objectives with the production systems, land resources, places and, where appropriate, individual farms through which policy implementation occurs.
 
