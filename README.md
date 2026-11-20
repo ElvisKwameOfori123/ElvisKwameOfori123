@@ -24,11 +24,16 @@ The following projects address complementary questions, from reconstructing agri
 | --- | --- | --- |
 | **Understand historical change** | 🔒 [GOBLIN-Spatial](https://github.com/ElvisKwameOfori123/GOBLIN-Spatial) | How have Irish livestock systems and agricultural structures changed across places and scales from 2015 to 2025? |
 | **Represent farm heterogeneity** | 🔒 [AgriSyn v2](https://github.com/ElvisKwameOfori123/agrisyn_v0.2) | What does the 2020 Irish farm population look like when represented as spatially consistent synthetic farms? |
+| **Represent intensive livestock** | 🔒 [GOBLIN-Spatial-PP](https://github.com/ElvisKwameOfori123/GOBLIN-Spatial-PP) | Where are Ireland's pigs and poultry most plausibly located, by Electoral Division, from 2015 to 2025? |
 | **Explore and compare places** | 🔒 [GOBLIN-Spatial Explorer](https://github.com/ElvisKwameOfori123/GOBLIN-Spatial-Explorer) | What do validated historical livestock and land-use data reveal at ED, county, catchment and national scales? |
 | **Test policy instruments** | 🔒 [StockRate-Sim](https://github.com/ElvisKwameOfori123/StockRate-Sim) | How might different farms respond to livestock-unit taxes or tradable caps, and how are income effects distributed? |
+| **Test voluntary schemes** | 🔒 [Food-Vision](https://github.com/ElvisKwameOfori123/Food-Vision) | Who takes up paid suckler-herd reduction, at what public cost, and how much of the reduction is additional? |
 | **Stress-test transitions** | 🔒 [AgriSyn NZ](https://github.com/ElvisKwameOfori123/Agrisyn_NZ) | Which farms and places bear the adjustment under alternative distributions of Ireland's 2050 net-zero pathway? |
 | **Learn from policy exposure** | [E-SEAT](https://github.com/ElvisKwameOfori123/E-SEAT) | How does corn specialisation in the U.S. Corn Belt respond differentially when ethanol-demand signals weaken? |
 | **Examine land competition** | [BioLand-US](https://github.com/ElvisKwameOfori123/BioLand-US) | How do land availability, competing uses and economic constraints affect the feasibility of U.S. bioenergy pathways? |
+| **Project global food and land** | 🔒 [GLERA](https://github.com/ElvisKwameOfori123/GLERA) | How much cropland and pasture will each country need for food and feed to 2050 under different diets and yields? |
+| **Trace forest resources** | 🔒 [FIBRE](https://github.com/ElvisKwameOfori123/Fibre-Ireland) | How do wood, markets, trade and carbon connect in the Irish forest sector? (in development) |
+| **Learn from energy transitions** | 🔒 [Road Not Taken](https://github.com/ElvisKwameOfori123/china-transition-speed-green-innovation) | Does the speed of clean-energy transition change green innovation in Chinese provinces? |
 
 🔒 *Private repositories are accessible only to authorised collaborators while manuscripts or release requirements are being addressed. Confidential microdata are not redistributed.*
 
